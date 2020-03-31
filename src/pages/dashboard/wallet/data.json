@@ -1,0 +1,60 @@
+{
+  "tableData": [
+    {
+      "coins":"MCX",
+      "price":"$ 7455",
+      "changes":{
+        "value":"5.30",
+        "status":"up"
+      }
+    },
+    {
+      "coins":"MCX",
+      "price":"$ 7455",
+      "changes":{
+        "value":"5.30",
+        "status":"up"
+      }
+    },
+    {
+      "coins":"MCX",
+      "price":"$ 7455",
+      "changes":{
+        "value":"5.30",
+        "status":"up"
+      }
+    },
+    {
+      "coins":"MCX",
+      "price":"$ 7455",
+      "changes":{
+        "value":"5.30",
+        "status":"down"
+      }
+    },
+    {
+      "coins":"MCX",
+      "price":"$ 7455",
+      "changes":{
+        "value":"5.30",
+        "status":"down"
+      }
+    },
+    {
+      "coins":"MCX",
+      "price":"$ 7455",
+      "changes":{
+        "value":"5.30",
+        "status":"up"
+      }
+    },
+    {
+      "coins":"MCX",
+      "price":"$ 7455",
+      "changes":{
+        "value":"5.30",
+        "status":"down"
+      }
+    }
+  ]
+}
